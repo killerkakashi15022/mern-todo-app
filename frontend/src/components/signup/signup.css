@@ -1,0 +1,27 @@
+.signup {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.column {
+    min-height: 100vh;
+}
+
+.sign-up-heading {
+    font-size: 100px;
+    color: rgba(240, 0, 0, 0.87);
+    opacity: 0.8;
+}
+
+.input-signup {
+    outline: none;
+}
+
+.btn-signup {
+    background-color: rgba(240, 0, 0, 0.87);
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
